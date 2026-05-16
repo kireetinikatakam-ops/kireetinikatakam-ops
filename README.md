@@ -1,68 +1,50 @@
-# Hi there, I'm Kireetini 👋✨
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;GSSoC+2026+Campus+Ambassador;Python+%7C+C+%7C+DSA+Learner;Aspiring+AI+Developer+🚀" />
-
----
-
 ## 🌸 About Me
 
-<img align="right" alt="coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="girl coding" width="300" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
-- 🎓 Computer Science Student  
-- 🌟 Campus Ambassador @ GSSoC 2026  
-- 💻 Learning **Python, DSA & AI/ML**  
-- 🚀 Exploring Open Source & Hackathons  
-- 🏆 Passionate about coding competitions  
-- 🌈 Turning ideas into projects  
+👩‍💻 Hey there! I'm **Kireetini**, a passionate Computer Science student who loves blending creativity with technology.  
+I enjoy building projects, learning new technologies, and exploring the exciting world of Artificial Intelligence.  
+As a **GSSoC 2026 Campus Ambassador**, I actively engage with tech communities, open-source programs, and collaborative learning opportunities.
 
----
+✨ My interests revolve around:
+- 🤖 Artificial Intelligence & AI Prompt Engineering  
+- 🎨 Creative Vibe Coding & Aesthetic Project Building  
+- 💻 Python Programming & Data Structures  
+- 🚀 Open Source Contributions & Hackathons  
+- 🌐 Exploring modern technologies and developer tools  
 
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github,vscode" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kireetinikatakam-ops&show_icons=true&theme=radical" height="170"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kireetinikatakam-ops&layout=compact&theme=radical" height="170"/>
-</p>
+I believe technology becomes more impactful when creativity meets logic 💖  
+Whether it's building beginner-friendly projects, participating in coding contests, or learning AI concepts, I always aim to grow step by step while inspiring others in the tech community.
 
 ---
 
-## 🔥 GitHub Streak
+### 🌷 What I'm Currently Doing
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kireetinikatakam-ops&theme=radical&border_radius=10" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/kireetini-katakam-1b0499378">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/kireetinikatakam-ops">
-  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-</a>
-</p>
+- 📚 Learning **DSA, AI/ML & Advanced Python**
+- 🧠 Improving my **Problem Solving Skills**
+- 🤝 Exploring **Open Source Contributions**
+- 🚀 Building mini projects to improve my development skills
+- 🌸 Creating aesthetic and creative coding projects
+- 📈 Growing my GitHub profile and coding consistency daily
 
 ---
 
-## ✨ Fun Quote
+### 💖 A Little More About Me
 
-> *"Code. Learn. Build. Repeat."* 🚀
+- 👩‍🎓 Computer Science Student with big dreams in tech
+- ☕ Coding + Music = My comfort zone
+- 🌈 Love clean UI, creative designs & aesthetic themes
+- ✨ Enjoy learning through projects and experimentation
+- 🎯 Goal: Become a skilled AI Developer & Innovator
+- 🔥 Passionate about Hackathons & Competitive Coding
+- 🌸 Believer in consistency, creativity, and continuous learning
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer"/>
-</p>
+### 🌟 Fun Facts
+
+- 💡 I enjoy turning random ideas into real projects
+- 🎧 Music helps me focus while coding
+- 🌙 Late-night coding sessions are my favorite
+- 🩷 Pink + Purple aesthetic = Best coding vibe
+- 🚀 Every small contribution motivates me to learn more
