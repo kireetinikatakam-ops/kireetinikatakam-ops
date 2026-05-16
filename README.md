@@ -14,10 +14,11 @@
 
 <img align="right" alt="girl coding" width="320" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
-🌷 Heyy! I'm **Kireetini**, a passionate girl in tech who loves mixing creativity with code 💖  
-I enjoy building aesthetic projects, exploring Artificial Intelligence, contributing to open source, and continuously learning new technologies 🚀✨
+🌷 Heyy! I'm **Kireetini**, a passionate Computer Science student who loves combining creativity with technology 💖
 
-💫 I believe coding is not just about logic — it’s also about creativity, innovation, and expressing ideas beautifully.
+I enjoy exploring Artificial Intelligence, building aesthetic projects, learning new skills, and growing through coding, hackathons, and open-source opportunities 🚀✨
+
+💫 I believe coding is not just about solving problems — it’s about creating meaningful and innovative experiences.
 
 ---
 
@@ -26,28 +27,24 @@ I enjoy building aesthetic projects, exploring Artificial Intelligence, contribu
 ✨ Passionate about:
 - 🤖 AI Prompt Engineering
 - 🎨 Creative Vibe Coding
-- 💻 Python, C & DSA
-- 🌸 Aesthetic UI & Creative Projects
-- 🚀 Open Source Contributions
-- 🏆 Hackathons & Coding Competitions
+- 💻 Python & C Programming
+- 📚 Data Structures & Algorithms
+- 🚀 Open Source & Hackathons
+- 🌸 Creative Tech Projects
 
 🌟 Currently:
-- 📚 Learning AI/ML & Advanced Python
+- 📚 Learning Python, DSA & AI/ML
 - 🧠 Improving Problem Solving Skills
-- 💡 Building Mini Projects Daily
-- 📈 Growing my GitHub Journey
-- 💖 Turning ideas into impactful projects
+- 💡 Building Beginner-Friendly Projects
+- 📈 Growing My GitHub Journey
+- ✨ Exploring New Technologies
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kireetinikatakam-ops&theme=radical&no-frame=true&margin-w=10&margin-h=10"/>
 </p>
 
 ---
@@ -65,7 +62,7 @@ I enjoy building aesthetic projects, exploring Artificial Intelligence, contribu
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=kireetinikatakam-ops&theme=radical&border_radius=15&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4"/>
+  <img src="https://streak-stats.demolab.com?user=kireetinikatakam-ops&theme=radical&border_radius=15"/>
 </p>
 
 ---
@@ -84,16 +81,10 @@ I enjoy building aesthetic projects, exploring Artificial Intelligence, contribu
 
 ---
 
-## 💖 Fun Zone
+## 💖 Fun Quote
 
 <p align="center">
-  🌸 <i>"Code with creativity. Build with passion. Shine with confidence."</i> 🌸
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="120">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="120">
+  🌸 <i>"Code with creativity. Build with passion. Grow with consistency."</i> 🌸
 </p>
 
 ---
