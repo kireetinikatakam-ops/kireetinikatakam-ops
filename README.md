@@ -1,4 +1,4 @@
-# Hi there, I'm Kireetini 👋✨
+# Hi there, I'm Kireetini Katakam👋✨
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&height=80&lines=👩‍💻+Computer+Science+Student;🌸+GSSoC+2026+Campus+Ambassador;🤖+AI+Prompt+Engineering+Enthusiast;🎨+Creative+Vibe+Coder;🚀+Aspiring+AI+Developer" />
