@@ -1,17 +1,53 @@
-# Hi, I'm Kireetini Katakam 👋
+<!-- =============== HEADER =============== -->
+
+<h1 align="center">Hi, I'm Kireetini Katakam 👋</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=15" width="100%" />
-</p>
-
-<h1 align="center">KIREETINI KATAKAM</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=3B82F6&center=true&vCenter=true&width=650&height=60&lines=printf%28%22Hello%2C+World%21%22%29%3B;print%28%22Building+my+future%22%29;System.out.println%28%22Keep+Learning%22%29%3B;console.log%28%22Hello+Developer%22%29%3B" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&height=60&lines=Computer+Science+Student;Aspiring+AI+Developer;Open+Source+Contributor;Creative+Vibe+Coder;Building+the+Future+with+Code" />
 </p>
 
 <p align="center">
-  <img width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated developer coding at a computer" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2563EB,100:DC2626&height=3" width="100%" />
+</p>
+
+<!-- =============== CODING ANIMATION =============== -->
+
+<table>
+<tr>
+<td width="55%" valign="middle">
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Kireetini"
+        self.role = "CS Student"
+        self.interests = [
+            "Artificial Intelligence",
+            "Open Source",
+            "Web Development",
+            "Prompt Engineering"
+        ]
+
+    def build(self):
+        return "Ideas into reality 🚀"
+
+me = Developer()
+print(me.build())
+```
+
+</td>
+<td width="45%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="100%" alt="Girl coding at her computer" />
+
+</td>
+</tr>
+</table>
+
+<!-- =============== FLOATING CODE WORDS =============== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=1800&pause=500&color=3B82F6&center=true&vCenter=true&width=700&height=50&lines=%3C+C+%2F%3E;++Python();;Java+%7B+code+%7D;;%3C+HTML+%2F%3E;;CSS+%7B+design+%7D;;AI+%7C+Innovation;;while%28learning%29+%7B+build%28%29%3B+%7D" />
 </p>
 
 <p align="center">
@@ -23,105 +59,137 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
-<p align="center">
-  <code>LEARN</code> &nbsp; // &nbsp; <code>BUILD</code> &nbsp; // &nbsp; <code>DEBUG</code> &nbsp; // &nbsp; <code>REPEAT</code>
-</p>
+---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:0D1117,100:DC2626&height=3" width="100%" />
-</p>
+<!-- =============== ABOUT ME =============== -->
 
+## <img src="https://img.shields.io/badge/01-ABOUT%20ME-2563EB?style=flat-square" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&height=60&lines=Computer+Science+Student;Aspiring+AI+Developer;Open+Source+Contributor;AI+%26+Prompt+Engineering+Enthusiast;Creative+Developer+%7C+Vibe+Coder" />
-</p>
+Hey! I'm **Kireetini**, a Computer Science student who enjoys combining technology, creativity, and problem-solving.
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:DC2626&height=3&section=header" width="100%" />
-</p>
+* 🔭 Exploring AI-powered applications and creative development.
+* 🌱 Learning Python, Data Structures & Algorithms, and AI/ML.
+* 💻 Practicing programming and open-source contributions.
+* 🤖 Interested in AI tools and prompt engineering.
+* 🚀 Building projects and learning through hackathons.
 
-## About Me
-
-Computer Science student interested in building technology that combines problem-solving, creativity, and artificial intelligence.
-
-I'm exploring software development, AI tools, prompt engineering, and open-source contributions while continuously improving my programming and development skills.
-
-* Currently learning **Python, Data Structures & Algorithms, and AI/ML**
-* Exploring **AI-powered applications and creative development**
-* Contributing to **open-source projects**
-* Participating in **hackathons and technology communities**
-* Interested in building practical, beginner-friendly projects
-
-> I believe the best way to learn technology is to build, experiment, collaborate, and keep improving.
+> *Turning ideas into code, one project at a time.*
 
 ---
 
-## Experience & Internships
+<!-- =============== INTERNSHIPS =============== -->
 
-### AI Internship — Decode Labs
+## <img src="https://img.shields.io/badge/02-EXPERIENCE%20%26%20INTERNSHIPS-DC2626?style=flat-square" />
 
-**May – June 2026 | Remote**
+### AI Intern — Decode Labs
 
-* Participated in an AI-focused internship.
+`May – June 2026` · `Remote`
+
 * Explored practical applications of artificial intelligence.
-* Continued developing technical and project-building skills.
+* Developed technical and project-building skills.
 
 ### Student Ambassador — GirlScript Summer of Code 2026
 
 * Representing my college community.
-* Encouraging students to explore open source and collaborative development.
+* Encouraging students to explore open-source development.
 
 ### Campus Representative — Elite Coders Summer of Code 2026
 
-* Supporting student engagement in coding and open-source opportunities.
-* Promoting learning and collaboration within the campus community.
+* Promoting coding, collaboration, and open-source opportunities.
 
 ### Student Partner — Internshala
 
-* Exploring internship opportunities and career development resources.
-* Supporting awareness of student learning and professional opportunities.
+* Exploring student career development and internship opportunities.
 
 ### Cyber Ambassador — ISAC
 
 * Supporting cybersecurity awareness and student engagement.
-* Participating in the ISAC Cyber Club initiative at my college.
 
 ---
 
-## Open Source Journey
+<!-- =============== OPEN SOURCE =============== -->
 
-Learning through real-world repositories, collaborative development, and contributions to community projects.
+## <img src="https://img.shields.io/badge/03-OPEN%20SOURCE-2563EB?style=flat-square" />
 
-* Exploring GitHub issues and repository workflows
-* Practicing branching, commits, pull requests, and code reviews
-* Learning to collaborate with other developers
-* Building consistency through hands-on contributions
+```text
+> Explore repositories
+> Understand issues
+> Write and improve code
+> Create branches
+> Submit pull requests
+> Learn through collaboration
+```
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-2563EB?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Open%20Source-DC2626?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-2563EB?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keep%20Building-Keep%20Learning-DC2626?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## Projects & Achievements
+<!-- =============== PROJECTS =============== -->
 
-* **Yatra AI** — Exploring an AI-powered travel planning experience.
-* **STYLORA** — Concept for an AI-assisted, sustainable student fashion platform.
-* **SheCycle** — Sustainable fashion concept focused on clothing reuse and local tailoring.
-* **ByteQuest** — Secured a Top 10 finish, placing 9th.
+## <img src="https://img.shields.io/badge/04-PROJECTS%20%26%20ACHIEVEMENTS-DC2626?style=flat-square" />
 
-*These projects reflect my learning journey through AI tools, creative development, sustainability, and hackathons.*
+| Project       | Description                                     |
+| ------------- | ----------------------------------------------- |
+| **Yatra AI**  | AI-powered travel planning concept              |
+| **STYLORA**   | AI-assisted sustainable student fashion concept |
+| **SheCycle**  | Sustainable fashion and clothing reuse concept  |
+| **ByteQuest** | Top 10 finish — 9th place                       |
 
 ---
 
-## Technical Skills
+<!-- =============== TECH STACK =============== -->
+
+## <img src="https://img.shields.io/badge/05-TECH%20ARSENAL-2563EB?style=flat-square" />
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,git,github,vscode&theme=dark" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Prompt%20Engineering-2563EB?style=flat-square" />
-  <img src="https://img.shields.io/badge/DSA-Learning-DC2626?style=flat-square" />
-  <img src="https://img.shields.io/badge/Creative%20Development-
+  <img src="https://img.shields.io/badge/AI%20%26%20Prompt%20Engineering-0D1117?style=flat-square&logo=openai&logoColor=3B82F6" />
+  <img src="https://img.shields.io/badge/DSA-Learning-0D1117?style=flat-square&logo=leetcode&logoColor=DC2626" />
+  <img src="https://img.shields.io/badge/Creative%20Development-0D1117?style=flat-square&logo=github&logoColor=3B82F6" />
+</p>
+
+---
+
+<!-- =============== GITHUB STATS =============== -->
+
+## <img src="https://img.shields.io/badge/06-GITHUB%20STATISTICS-DC2626?style=flat-square" />
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kireetinikatakam-ops&show_icons=true&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=DC2626&text_color=C9D1D9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kireetinikatakam-ops&layout=compact&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9" />
+</p>
+
+## Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kireetinikatakam-ops&hide_border=true&background=0D1117&ring=2563EB&fire=DC2626&currStreakLabel=3B82F6&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" />
+</p>
+
+---
+
+<!-- =============== CONNECT =============== -->
+
+## <img src="https://img.shields.io/badge/07-CONNECT%20WITH%20ME-2563EB?style=flat-square" />
+
+<p align="center">
+  <a href="https://github.com/kireetinikatakam-ops">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/kireetini-katakam-1b0499378">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=DC2626&center=true&vCenter=true&width=650&height=40&lines=Learn+%E2%80%A2+Build+%E2%80%A2+Contribute;Dream+in+code.+Build+with+purpose." />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2563EB,100:DC2626&height=120&section=footer" width="100%" />
+</p>
