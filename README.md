@@ -22,7 +22,7 @@
 
 ## <img src="https://img.shields.io/badge/01-ABOUT%20ME-123B68?style=flat-square" />
 
-```python
+
 class Developer:
     def __init__(self):
         self.name = "Kireetini Katakam"
