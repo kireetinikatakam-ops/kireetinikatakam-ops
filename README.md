@@ -4,7 +4,7 @@
 
 *Learn continuously, build consistently, and improve with every project.*
 
-![Typing code on a laptop](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Animated intro](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7C3AED&width=600&lines=Hi+there!+I'm+Kireetini+%F0%9F%91%8B;CS+Student+%7C+AI+Enthusiast;Learn.+Build.+Improve.)
 
 ---
 
