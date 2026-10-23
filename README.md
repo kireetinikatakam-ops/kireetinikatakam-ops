@@ -1,129 +1,201 @@
 ````html
-<!-- ===================== HEADER ===================== -->
+# Hi there, I'm Kireetini Katakam 👋✨
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&height=80&lines=👩‍💻+Computer+Science+Student;💻+Python+%7C+C+%7C+Java;🤖+AI+%26+Prompt+Engineering+Enthusiast;🚀+Open+Source+%26+Hackathons;✨+Turning+Ideas+Into+Reality" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B68,100:DC2626&height=220&section=header&text=Kireetini%20Katakam&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality;Learning+Python+%7C+Java+%7C+C;Exploring+AI+%26+Web+Development;Open+Source+Contributor+in+Progress" alt="Typing SVG" />
+---
 
-<br/>
+## 💻 About Me
 
-<a href="https://github.com/kireetinikatakam-ops">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
-</a>
-<img src="https://img.shields.io/badge/Computer%20Science-123B68?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Computer Science"/>
-<img src="https://img.shields.io/badge/AI%20Enthusiast-DC2626?style=for-the-badge&logo=openai&logoColor=white" alt="AI Enthusiast"/>
+<img align="right" alt="Girl Coding" width="300" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
-</div>
+Hey! I'm **Kireetini Katakam**, a Computer Science student who enjoys combining technology, creativity, and problem-solving.
 
-<br/>
+I'm exploring Artificial Intelligence, web development, prompt engineering, and open-source development while building projects and learning through hackathons.
 
-<!-- ===================== ABOUT ME ===================== -->
+I believe technology is more than writing code — it's about turning ideas into useful solutions.
 
-## <img src="https://img.shields.io/badge/01-ABOUT%20ME-123B68?style=flat-square" />
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Kireetini Katakam"
-        self.role = "Computer Science Student"
-        self.languages = ["C", "Python", "Java", "HTML", "CSS"]
-        self.interests = [
-            "Artificial Intelligence",
-            "Web Development",
-            "Open Source",
-            "Prompt Engineering"
-        ]
-        self.current_focus = [
-            "Data Structures & Algorithms",
-            "Building Projects",
-            "Learning by Doing"
-        ]
-
-    def build(self):
-        return "Ideas into reality 🚀"
-
-
-me = Developer()
-print(me.build())
-````
-
-Hey! I'm **Kireetini**, a Computer Science student interested in building useful technology by combining programming, creativity, and problem-solving.
-
-* AI-powered applications and experimentation
-* Python, Java, and Data Structures & Algorithms
-* Web development and creative project building
-* Open-source contributions and hackathons
-* AI tools, prompt engineering, and emerging technologies
+- 🔭 Exploring AI-powered applications and creative development.
+- 🌱 Learning Python, Java, C, DSA, and AI/ML.
+- 💻 Practicing programming and open-source contributions.
+- 🤖 Exploring AI tools and prompt engineering.
+- 🚀 Building projects and participating in hackathons.
 
 > *Turning ideas into code, one project at a time.*
 
-<br/>
+---
 
-<!-- ===================== TECH STACK ===================== -->
+## 🌟 Experience & Community
 
-## <img src="https://img.shields.io/badge/02-TECH%20STACK-123B68?style=flat-square" />
+### 🤖 AI Intern — Decode Labs
+`May – June 2026` · Remote
 
-### Programming Languages
+- Explored practical applications of artificial intelligence.
+- Developed technical and project-building skills.
 
-<p>
-<img src="https://skillicons.dev/icons?i=c,python,java&theme=dark" />
+### 🚀 Student Ambassador — GirlScript Summer of Code 2026
+
+- Representing my college community.
+- Encouraging students to explore open-source development.
+
+### 💻 Campus Representative — Elite Coders Summer of Code 2026
+
+- Promoting coding, collaboration, and open-source opportunities.
+
+### 🌐 Student Partner — Internshala
+
+- Exploring student career development and internship opportunities.
+
+### 🛡️ Cyber Ambassador — ISAC
+
+- Supporting cybersecurity awareness and student engagement.
+
+### 🎓 College Ambassador — Techfest, IIT Bombay 2026
+
+- Representing Techfest and sharing opportunities with fellow students.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,react,nodejs,django,git,github,vscode&theme=dark" />
 </p>
 
-### Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,django&theme=dark" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-123B68?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-DC2626?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20Source-123B68?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
 </p>
 
-### Tools & Technologies
+---
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,supabase&theme=dark" />
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### ✈️ Yatra AI
+
+An AI-powered travel planning concept that helps travelers explore destinations and plan personalized trips.
+
+**Focus:** AI · Travel Technology
+
+</td>
+<td width="50%">
+
+### 👗 STYLORA
+
+An AI-assisted student fashion concept focused on personal styling, clothing reuse, and sustainable fashion.
+
+**Focus:** AI · Fashion · Sustainability
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ♻️ SheCycle
+
+A sustainable fashion concept connecting clothing reuse with opportunities for local women tailors.
+
+**Focus:** Sustainability · Social Impact
+
+</td>
+<td width="50%">
+
+### 🏆 ByteQuest
+
+Achieved **9th place in the Top 10** in ByteQuest by BuildOn × Unstop.
+
+**Focus:** Competition · Problem Solving
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🧑‍💻 My Open Source Journey
+
+```text
+> Explore repositories
+> Understand issues
+> Learn from existing code
+> Create branches
+> Improve implementations
+> Submit pull requests
+> Grow through collaboration
+````
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kireetinikatakam-ops&show_icons=true&theme=github_dark&border_radius=15&title_color=58A6FF&icon_color=DC2626&hide_border=true" alt="GitHub Stats"/>
+
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kireetinikatakam-ops&layout=compact&theme=github_dark&border_radius=15&title_color=58A6FF&hide_border=true" alt="Top Languages"/>
 </p>
 
-### Currently Exploring
+---
 
-<p>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-123B68?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-DC2626?style=for-the-badge&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Data%20Structures-123B68?style=for-the-badge&logo=leetcode&logoColor=white" />
-<img src="https://img.shields.io/badge/Open%20Source-DC2626?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+## 🔥 GitHub Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kireetinikatakam-ops&theme=github-dark-blue&border_radius=15&ring=DC2626&fire=DC2626&currStreakLabel=58A6FF&hide_border=true" alt="GitHub Streak"/>
 </p>
 
-<br/>
+---
 
-<!-- ===================== EXPERIENCE ===================== -->
+## 🌐 Connect With Me
 
-## <img src="https://img.shields.io/badge/03-EXPERIENCE%20%26%20COMMUNITY-123B68?style=flat-square" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/kireetini-katakam-1b0499378">
+    <img src="https://img.shields.io/badge/LinkedIn-123B68?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 
-### AI Intern — Decode Labs
+  <a href="https://github.com/kireetinikatakam-ops">
+    <img src="https://img.shields.io/badge/GitHub-DC2626?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-`May – June 2026` · `Remote`
+---
 
-* Explored practical applications of artificial intelligence.
-* Developed technical and project-building skills.
+## 💡 My Current Goals
 
-### Student Ambassador — GirlScript Summer of Code 2026
+<p align="center">
+  <img src="https://img.shields.io/badge/Learn-DSA%20%26%20Problem%20Solving-123B68?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Build-AI%20Projects-DC2626?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Explore-Open%20Source-123B68?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Improve-Development%20Skills-DC2626?style=flat-square"/>
+</p>
 
-* Representing my college community.
-* Encouraging students to explore open-source development.
+---
 
-### Campus Representative — Elite Coders Summer of Code 2026
+## 💬 Fun Quote
 
-* Promoting coding, collaboration, and open-source opportunities.
+<p align="center">
+  <i>"Code with creativity. Build with purpose. Grow with consistency."</i>
+</p>
 
-### Student Partner — Internshala
+---
 
-* Exploring student career development and internship opportunities.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B68,100:DC2626&height=170&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=32&animation=fadeIn" width="100%"/>
+</p>
+```
 
-### Cyber Ambassador — ISAC
+### Two quick things before committing
 
-* Supporting cybersecurity awareness and student engagement.
+* **Tech stack:** I included JavaScript, React, Node.js, and Django as technologies you're exploring. Remove any you haven't actually started learning.
+* **Project links:** Your project names are displayed, but I haven't invented repository links. Once you have public repositories for Yatra AI, STYLORA, and SheCycle, we can turn those project cards into clickable links.
 
-<br/>
-
-<!-- ===================== PROJECTS ===================== -->
-
-## <img src="https://img.shields.io/badge/04-F
+The overall look stays close to your original README, but the **blue-and-red palette gives it a cleaner developer aesthetic** without losing the animations.
