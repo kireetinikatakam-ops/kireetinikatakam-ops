@@ -1,6 +1,38 @@
 # Hi, I'm Kireetini Katakam 👋
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=15" width="100%" />
+</p>
+
+<h1 align="center">KIREETINI KATAKAM</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=700&color=3B82F6&center=true&vCenter=true&width=650&height=60&lines=printf%28%22Hello%2C+World%21%22%29%3B;print%28%22Building+my+future%22%29;System.out.println%28%22Keep+Learning%22%29%3B;console.log%28%22Hello+Developer%22%29%3B" />
+</p>
+
+<p align="center">
+  <img width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Animated developer coding at a computer" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-DC2626?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-2563EB?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+<p align="center">
+  <code>LEARN</code> &nbsp; // &nbsp; <code>BUILD</code> &nbsp; // &nbsp; <code>DEBUG</code> &nbsp; // &nbsp; <code>REPEAT</code>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,50:0D1117,100:DC2626&height=3" width="100%" />
+</p>
+
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&height=60&lines=Computer+Science+Student;Aspiring+AI+Developer;Open+Source+Contributor;AI+%26+Prompt+Engineering+Enthusiast;Creative+Developer+%7C+Vibe+Coder" />
 </p>
 
