@@ -1,94 +1,95 @@
-# Hi there, I'm Kireetini Katakam👋✨
+# Hi, I'm Kireetini Katakam 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comic+Neue&weight=700&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&height=80&lines=👩‍💻+Computer+Science+Student;🌸+GSSoC+2026+Campus+Ambassador;🤖+AI+Prompt+Engineering+Enthusiast;🎨+Creative+Vibe+Coder;🚀+Aspiring+AI+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&height=60&lines=Computer+Science+Student;Aspiring+AI+Developer;Open+Source+Contributor;AI+%26+Prompt+Engineering+Enthusiast;Creative+Developer+%7C+Vibe+Coder" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,50:2563EB,100:DC2626&height=3&section=header" width="100%" />
+</p>
+
+## About Me
+
+Computer Science student interested in building technology that combines problem-solving, creativity, and artificial intelligence.
+
+I'm exploring software development, AI tools, prompt engineering, and open-source contributions while continuously improving my programming and development skills.
+
+* Currently learning **Python, Data Structures & Algorithms, and AI/ML**
+* Exploring **AI-powered applications and creative development**
+* Contributing to **open-source projects**
+* Participating in **hackathons and technology communities**
+* Interested in building practical, beginner-friendly projects
+
+> I believe the best way to learn technology is to build, experiment, collaborate, and keep improving.
+
+---
+
+## Experience & Internships
+
+### AI Internship — Decode Labs
+
+**May – June 2026 | Remote**
+
+* Participated in an AI-focused internship.
+* Explored practical applications of artificial intelligence.
+* Continued developing technical and project-building skills.
+
+### Student Ambassador — GirlScript Summer of Code 2026
+
+* Representing my college community.
+* Encouraging students to explore open source and collaborative development.
+
+### Campus Representative — Elite Coders Summer of Code 2026
+
+* Supporting student engagement in coding and open-source opportunities.
+* Promoting learning and collaboration within the campus community.
+
+### Student Partner — Internshala
+
+* Exploring internship opportunities and career development resources.
+* Supporting awareness of student learning and professional opportunities.
+
+### Cyber Ambassador — ISAC
+
+* Supporting cybersecurity awareness and student engagement.
+* Participating in the ISAC Cyber Club initiative at my college.
+
+---
+
+## Open Source Journey
+
+Learning through real-world repositories, collaborative development, and contributions to community projects.
+
+* Exploring GitHub issues and repository workflows
+* Practicing branching, commits, pull requests, and code reviews
+* Learning to collaborate with other developers
+* Building consistency through hands-on contributions
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-2563EB?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Open%20Source-DC2626?style=flat-square&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🌸 About Me
+## Projects & Achievements
 
-<img align="right" alt="girl coding" width="320" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
+* **Yatra AI** — Exploring an AI-powered travel planning experience.
+* **STYLORA** — Concept for an AI-assisted, sustainable student fashion platform.
+* **SheCycle** — Sustainable fashion concept focused on clothing reuse and local tailoring.
+* **ByteQuest** — Secured a Top 10 finish, placing 9th.
 
-🌷 Heyy! I'm **Kireetini**, a passionate Computer Science student who loves combining creativity with technology 💖
-
-I enjoy exploring Artificial Intelligence, building aesthetic projects, learning new skills, and growing through coding, hackathons, and open-source opportunities 🚀✨
-
-💫 I believe coding is not just about solving problems — it’s about creating meaningful and innovative experiences.
-
----
-
-### 🌈 What Defines Me?
-
-✨ Passionate about:
-- 🤖 AI Prompt Engineering
-- 🎨 Creative Vibe Coding
-- 💻 Python & C Programming
-- 📚 Data Structures & Algorithms
-- 🚀 Open Source & Hackathons
-- 🌸 Creative Tech Projects
-
-🌟 Currently:
-- 📚 Learning Python, DSA & AI/ML
-- 🧠 Improving Problem Solving Skills
-- 💡 Building Beginner-Friendly Projects
-- 📈 Growing My GitHub Journey
-- ✨ Exploring New Technologies
+*These projects reflect my learning journey through AI tools, creative development, sustainability, and hackathons.*
 
 ---
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github,vscode" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kireetinikatakam-ops&show_icons=true&theme=radical&border_radius=15"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kireetinikatakam-ops&layout=compact&theme=radical&border_radius=15"/>
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=kireetinikatakam-ops&theme=radical&border_radius=15"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/kireetini-katakam-1b0499378">
-  <img src="https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kireetinikatakam-ops">
-  <img src="https://img.shields.io/badge/GitHub-8A2BE2?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-## 💖 Fun Quote
-
-<p align="center">
-  🌸 <i>"Code with creativity. Build with passion. Grow with consistency."</i> 🌸
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF69B4,50:DA70D6,100:8A2BE2&height=170&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=35&animation=fadeIn"/>
-</p>
+  <img src="https://img.shields.io/badge/AI%20%26%20Prompt%20Engineering-2563EB?style=flat-square" />
+  <img src="https://img.shields.io/badge/DSA-Learning-DC2626?style=flat-square" />
+  <img src="https://img.shields.io/badge/Creative%20Development-
