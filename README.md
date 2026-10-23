@@ -1,100 +1,61 @@
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Kireetini"
-        self.role = "CS Student"
-        self.interests = [
-            "Artificial Intelligence",
-            "Open Source",
-            "Web Development",
-            "Prompt Engineering"
-        ]
+# 👋 Hey, I'm Kireetini Katakam
 
-    def build(self):
-        return "Ideas into reality 🚀"
+### Computer Science Student | AI Enthusiast | Aspiring Developer
 
-me = Developer()
-print(me.build())
+*Learn continuously, build consistently, and improve with every project.*
 
-```
+![Typing code on a laptop](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ---
 
-##
+## 🚀 About Me
 
-Hey! I'm **Kireetini**, a Computer Science student who enjoys combining technology, creativity, and problem-solving.
+I'm a Computer Science student passionate about **technology, creativity, and problem-solving**. I'm exploring the world of **Artificial Intelligence, software development, and prompt engineering** while strengthening my programming fundamentals in **C, Python, and Java**.
 
-- 🔭 Exploring AI-powered applications and creative development.
-- 🌱 Learning Python, Data Structures & Algorithms, and AI/ML.
-- 💻 Practicing programming and open-source contributions.
-- 🤖 Interested in AI tools and prompt engineering.
-- 🚀 Building projects and learning through hackathons.
+I enjoy experimenting with AI tools, building creative projects, participating in hackathons, and exploring open-source opportunities. Through hands-on projects, I'm continuously improving my development skills, learning new technologies, and turning ideas into practical solutions.
 
-> *Turning ideas into code, one project at a time.*
+## 🎯 Interests
 
----
+- 🤖 AI-powered applications
+- 🌐 Web development
+- 🔬 Emerging technologies
+- 💡 Prompt engineering
+- 🏆 Hackathons
+- 🌍 Open-source contributions
 
-##
+## 📚 Currently Learning
 
-### AI Intern — Decode Labs
+- 🐍 Python
+- 🧩 Data Structures & Algorithms
+- 🧠 AI / Machine Learning
+- 💻 Web Development
 
-`May – June 2026` · `Remote`
+## 🛠️ Tech Stack
 
-- Explored practical applications of artificial intelligence.
-- Developed technical and project-building skills.
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-### Student Ambassador — GirlScript Summer of Code 2026
+![Programmer working on a laptop](https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif)
 
-- Representing my college community.
-- Encouraging students to explore open-source development.
+## 🎯 My Goal
 
-### Campus Representative — Elite Coders Summer of Code 2026
+To become a skilled developer who combines **technical knowledge with creative thinking** to build meaningful solutions.
 
-- Promoting coding, collaboration, and open-source opportunities.
+## 💭 Philosophy
 
-### Student Partner — Internshala
+> Learn continuously, build consistently, and improve with every project.
 
-- Exploring student career development and internship opportunities.
+## 📫 Let's Connect
 
-### Cyber Ambassador — ISAC
-
-- Supporting cybersecurity awareness and student engagement.
-
----
-
-##
-
-```text
-> Explore repositories
-> Understand issues
-> Write and improve code
-> Create branches
-> Submit pull requests
-> Learn through collaboration
-
-```
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kireetinikatakam-ops)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kireetini-katakam-1b0499378)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kireetinik@gmail.com)
 
 ---
 
-##
-
-| Project       | Description                                     |
-| ------------- | ----------------------------------------------- |
-| **Yatra AI**  | AI-powered travel planning concept              |
-| **STYLORA**   | AI-assisted sustainable student fashion concept |
-| **SheCycle**  | Sustainable fashion and clothing reuse concept  |
-| **ByteQuest** | Top 10 finish — 9th place                       |
-
----
-
-##
-
----
-
-##
-
-## Contribution Streak
-
----
-
-## give good clear code
+⭐ *Thanks for stopping by! Feel free to explore my repositories.* ⭐
