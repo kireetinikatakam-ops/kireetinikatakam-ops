@@ -1,212 +1,257 @@
-
 <!-- ===================== HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=25&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=55&lines=Hi+there%2C+I'm+Kireetini;Computer+Science+Student;Building+Ideas+Into+Reality;Exploring+AI+%26+Software+Development" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123B68,100:DC2626&height=220&section=header&text=Kireetini%20Katakam&fontSize=42&fontColor=FFFFFF&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
 
-<p>
-  <a href="https://github.com/kireetinikatakam-ops">GitHub</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/kireetini-katakam-1b0499378">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/kireetinikatakam-ops?tab=repositories">Projects</a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+Ideas+Into+Reality;Learning+Python+%7C+Java+%7C+C;Exploring+AI+%26+Web+Development;Open+Source+Contributor+in+Progress" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/kireetinikatakam-ops">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
+</a>
+<img src="https://img.shields.io/badge/Computer%20Science-123B68?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Computer Science"/>
+<img src="https://img.shields.io/badge/AI%20Enthusiast-DC2626?style=for-the-badge&logo=openai&logoColor=white" alt="AI Enthusiast"/>
 
 </div>
 
----
+<br/>
 
-<!-- ===================== INTRO ===================== -->
+<!-- ===================== ABOUT ME ===================== -->
 
-<table>
-<tr>
-<td width="58%" valign="middle">
+## <img src="https://img.shields.io/badge/01-ABOUT%20ME-123B68?style=flat-square" />
 
-## About Me
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Kireetini Katakam"
+        self.role = "Computer Science Student"
+        self.languages = ["C", "Python", "Java", "HTML", "CSS"]
+        self.interests = [
+            "Artificial Intelligence",
+            "Web Development",
+            "Open Source",
+            "Prompt Engineering"
+        ]
+        self.current_focus = [
+            "Data Structures & Algorithms",
+            "Building Projects",
+            "Learning by Doing"
+        ]
 
-Hey! I'm **Kireetini Katakam**, a Computer Science student interested in AI, software development, and creative problem-solving.
+    def build(self):
+        return "Ideas into reality 🚀"
 
-- Currently learning Python, Java, C, and DSA
-- Exploring AI/ML and prompt engineering
-- Building projects using AI tools and programming
-- Participating in hackathons and open-source initiatives
-- Interested in creating useful, real-world applications
 
-**Current mindset:** Learn → Build → Improve → Repeat.
+me = Developer()
+print(me.build())
+````
 
-</td>
-<td width="42%" align="center" valign="middle">
+Hey! I'm **Kireetini**, a Computer Science student interested in building useful technology by combining programming, creativity, and problem-solving.
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer coding animation"/>
+* AI-powered applications and experimentation
+* Python, Java, and Data Structures & Algorithms
+* Web development and creative project building
+* Open-source contributions and hackathons
+* AI tools, prompt engineering, and emerging technologies
 
-</td>
-</tr>
-</table>
+> *Turning ideas into code, one project at a time.*
 
----
+<br/>
 
-## Tech Stack
+<!-- ===================== TECH STACK ===================== -->
+
+## <img src="https://img.shields.io/badge/02-TECH%20STACK-123B68?style=flat-square" />
+
+### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,java,html,css,js,react,nodejs,django,git,github,vscode&theme=dark" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=c,python,java&theme=dark" />
 </p>
 
----
+### Web Development
 
-## Experience & Community
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,django&theme=dark" />
+</p>
+
+### Tools & Technologies
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,supabase&theme=dark" />
+</p>
+
+### Currently Exploring
+
+<p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-123B68?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-DC2626?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Data%20Structures-123B68?style=for-the-badge&logo=leetcode&logoColor=white" />
+<img src="https://img.shields.io/badge/Open%20Source-DC2626?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+</p>
+
+<br/>
+
+<!-- ===================== EXPERIENCE ===================== -->
+
+## <img src="https://img.shields.io/badge/03-EXPERIENCE%20%26%20COMMUNITY-123B68?style=flat-square" />
+
+### AI Intern — Decode Labs
+
+`May – June 2026` · `Remote`
+
+* Explored practical applications of artificial intelligence.
+* Developed technical and project-building skills.
+
+### Student Ambassador — GirlScript Summer of Code 2026
+
+* Representing my college community.
+* Encouraging students to explore open-source development.
+
+### Campus Representative — Elite Coders Summer of Code 2026
+
+* Promoting coding, collaboration, and open-source opportunities.
+
+### Student Partner — Internshala
+
+* Exploring student career development and internship opportunities.
+
+### Cyber Ambassador — ISAC
+
+* Supporting cybersecurity awareness and student engagement.
+
+<br/>
+
+<!-- ===================== PROJECTS ===================== -->
+
+## <img src="https://img.shields.io/badge/04-FEATURED%20PROJECTS-123B68?style=flat-square" />
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### AI Intern
-**Decode Labs**
-
-`May – June 2026` · Remote
-
-Explored practical AI applications and developed technical and project-building skills.
-
-### Student Ambassador
-**GirlScript Summer of Code 2026**
-
-Representing my college community and encouraging open-source participation.
-
-### Campus Representative
-**Elite Coders Summer of Code 2026**
-
-Promoting coding, collaboration, and open-source opportunities.
-
-</td>
-<td width="50%" valign="top">
-
-### Student Partner
-**Internshala**
-
-Exploring student career development and internship opportunities.
-
-### Cyber Ambassador
-**ISAC**
-
-Supporting cybersecurity awareness and student engagement.
-
-### College Ambassador
-**Techfest, IIT Bombay 2026**
-
-Representing Techfest and sharing opportunities with fellow students.
-
-</td>
-</tr>
-</table>
-
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### Yatra AI
 
-An AI-powered travel planning concept designed to help travelers discover destinations and plan personalized trips.
+<img src="https://img.shields.io/badge/AI-123B68?style=flat-square"/>
+<img src="https://img.shields.io/badge/Travel-DC2626?style=flat-square"/>
 
-`Artificial Intelligence` `Travel Tech`
+An AI-powered travel planning concept designed to help travelers discover destinations and plan trips around their preferences.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### STYLORA
 
-An AI-assisted fashion concept focused on personal styling, clothing reuse, and sustainable student fashion.
+<img src="https://img.shields.io/badge/Fashion-123B68?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sustainability-DC2626?style=flat-square"/>
 
-`AI` `Fashion Tech`
+An AI-assisted student fashion concept focused on personal styling, clothing reuse, and sustainable fashion.
 
 </td>
 </tr>
+
 <tr>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### SheCycle
 
-A sustainable fashion concept connecting clothing reuse with opportunities for local women tailors.
+<img src="https://img.shields.io/badge/Sustainability-123B68?style=flat-square"/>
+<img src="https://img.shields.io/badge/Social%20Impact-DC2626?style=flat-square"/>
 
-`Sustainability` `Social Impact`
+A sustainable fashion concept focused on clothing reuse and opportunities for local women tailors.
 
 </td>
-<td width="50%" valign="top">
+<td width="50%">
 
 ### ByteQuest
 
-Achieved **9th place in the Top 10** in ByteQuest by BuildOn × Unstop.
+<img src="https://img.shields.io/badge/Competition-123B68?style=flat-square"/>
+<img src="https://img.shields.io/badge/Rank%209-DC2626?style=flat-square"/>
 
-`Competition` `Problem Solving`
+Secured **9th place (Top 10)** in ByteQuest, organized by BuildOn × Unstop.
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## GitHub Analytics
+<!-- ===================== GITHUB STATS ===================== -->
+
+## <img src="https://img.shields.io/badge/05-GITHUB%20ANALYTICS-123B68?style=flat-square" />
 
 <div align="center">
 
-<a href="https://github.com/kireetinikatakam-ops">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kireetinikatakam-ops&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Statistics"/>
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=kireetinikatakam-ops&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=DC2626&text_color=C9D1D9&bg_color=0D1117" alt="GitHub Stats"/>
 
-<a href="https://github.com/kireetinikatakam-ops">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kireetinikatakam-ops&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Most Used Languages"/>
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kireetinikatakam-ops&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Most Used Languages"/>
 
 <br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=kireetinikatakam-ops&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub Contribution Streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=kireetinikatakam-ops&bg_color=0D1117&color=58A6FF&line=388BFD&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity"/>
+<img src="https://streak-stats.demolab.com?user=kireetinikatakam-ops&theme=github-dark-blue&hide_border=true&background=0D1117&ring=DC2626&fire=DC2626&currStreakLabel=58A6FF" alt="GitHub Contribution Streak"/>
 
 </div>
 
----
+<br/>
 
-## Current Focus
+<!-- ===================== CONTRIBUTIONS ===================== -->
+
+## <img src="https://img.shields.io/badge/06-CONTRIBUTION%20GRAPH-123B68?style=flat-square" />
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kireetinikatakam-ops&bg_color=0D1117&color=58A6FF&line=DC2626&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
+
+</div>
+
+<br/>
+
+<!-- ===================== CURRENT GOALS ===================== -->
+
+## <img src="https://img.shields.io/badge/07-CURRENT%20GOALS-123B68?style=flat-square" />
 
 ```text
-01  Strengthening programming fundamentals
-02  Practicing Data Structures & Algorithms
-03  Building practical AI-powered projects
-04  Contributing to open-source repositories
-05  Learning through hackathons and collaboration
-````
+[01] Strengthen programming fundamentals
+[02] Practice DSA and problem-solving
+[03] Build practical AI-powered applications
+[04] Contribute to open-source projects
+[05] Collaborate with developers and participate in hackathons
+```
 
----
+<br/>
 
-## Connect With Me
+<!-- ===================== CONNECT ===================== -->
+
+## <img src="https://img.shields.io/badge/08-LET'S%20CONNECT-123B68?style=flat-square" />
 
 <div align="center">
 
 <a href="https://github.com/kireetinikatakam-ops">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Follow%20My%20Work-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/kireetini-katakam-1b0499378">
-  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" alt="LinkedIn"/>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-123B68?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<sub>Building skills, one project at a time.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC2626,50:123B68,100:0D1117&height=120&section=footer" width="100%" />
+
+**Thanks for visiting my profile!**
+
+*Code. Create. Contribute. Repeat.*
 
 </div>
 ```
 
-### How to make it look even closer to the screenshot
+### Before you save it, Kittu!
 
-1. **Keep the dark theme.** The `0D1117` background and `58A6FF` blue accents create the understated developer-dashboard appearance.
-2. **Add a coding illustration.** The GIF is positioned on the right of the introduction, just like the reference. If it doesn't load, replace it with another GIF or image URL.
-3. **Keep your project descriptions short.** The two-column cards make the profile easier to scan.
-4. **Check the analytics after committing.** The stats are loaded from external services, so they may take time to appear or occasionally be unavailable.
+1. **Open your profile repository:** [Your GitHub Profile Repository](https://github.com/kireetinikatakam-ops/kireetinikatakam-ops?utm_source=chatgpt.com). If that repository doesn't exist yet, create a public repository with the exact name `kireetinikatakam-ops`.
+2. Open `README.md`, click the pencil icon, replace the old content with this code, and commit your changes.
+3. **Update your LinkedIn link.** Replace `https://www.linkedin.com/` with your actual LinkedIn profile URL.
+4. **Keep your tech stack honest.** Remove technologies you haven't started learning. Skill icons are visual labels, not proof of proficiency.
+5. **Add project links when available.** Your project cards currently describe your work but don't link to repositories or live demos. Adding those links will make the profile more useful to recruiters.
 
-**One limitation:** GitHub README files cannot reproduce the screenshot's entire interface, including its sidebar and dashboard panels. This code recreates the profile's content area using GitHub-supported Markdown and HTML.
+**One important point:** GitHub statistics and contribution streaks depend on your actual account activity. A beautiful README can improve your profile's presentation, but consistent commits, documented projects, and meaningful contributions are what will make it stand out.
